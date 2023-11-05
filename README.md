@@ -14,8 +14,8 @@ This dictionary app allows you to view:
 
 ## Sample Image
 
-![1](https://github.com/naomit9/dictionaryApp_project/assets/144495516/e0cae332-1012-4581-a66a-a5bb5db20efe)
+<img src="https://github.com/naomit9/dictionaryApp_project/assets/144495516/e0cae332-1012-4581-a66a-a5bb5db20efe" width=500>
 
-![2](https://github.com/naomit9/dictionaryApp_project/assets/144495516/df3efe33-d822-45ec-9e86-9d55f0dde8e5)
+<img src="https://github.com/naomit9/dictionaryApp_project/assets/144495516/df3efe33-d822-45ec-9e86-9d55f0dde8e5" width=500>
 
-![3](https://github.com/naomit9/dictionaryApp_project/assets/144495516/7168cdaf-0e0d-424f-9d4b-efc142ae34d9)
+<img src="https://github.com/naomit9/dictionaryApp_project/assets/144495516/7168cdaf-0e0d-424f-9d4b-efc142ae34d9" width=500>
