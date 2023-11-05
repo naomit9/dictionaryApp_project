@@ -5,7 +5,7 @@
 ## Description
 This is a simple English dictionary app. Type in any word in English and the app will give you a meaning of the word, as well as the audio of what the word sounds like.
 
-This weather app allows you to view:
+This dictionary app allows you to view:
 * Word Definitions: Get detailed meaning for a vast range of English words.
 * Pronunciations: Listen to word pronunciations to improve your spoken English.
 
