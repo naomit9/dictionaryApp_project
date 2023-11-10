@@ -20,5 +20,17 @@ This dictionary app allows you to view:
 
 <img src="https://github.com/naomit9/dictionaryApp_project/assets/144495516/7168cdaf-0e0d-424f-9d4b-efc142ae34d9" width=500>
 
+### Customization
+You can customize the sign-up page to match your project's specific requirements. Here are some customization options:
+
+    * Modify the CSS styles to change colors, fonts, and layout.
+    * Modify the JavaScript file to change to behaviour of the stopwatch.
+
+### Contributing
+If you'd like to contribute to this project, feel free to create issues or pull requests. Your contributions are welcome!
+
+### Dependencies
+No external libraries or frameworks are required for this project.
+
 ### References
 [GreatStack](https://www.youtube.com/@GreatStackDev)
