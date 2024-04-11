@@ -15,7 +15,7 @@ This dictionary app allows you to view:
 * `script.js`
 
 ## Live Preview
-[Click Here to View Live Preview](https://naomit9.github.io/dictionaryApp_project/)
+[Click Here to View Live Preview](https://naomit9.github.io/dictionaryApp_project)
 
 ### Contributing
 If you'd like to contribute to this project, feel free to create issues or pull requests. Your contributions are welcome!
